@@ -187,9 +187,10 @@ img.inactive {
     border-radius: 8px;
     background-color: white;
     position: absolute;
-    bottom: 100px;
-    right: 20px;
+    bottom: 140px;
     transition: .5s;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .dark-light .bullet {
