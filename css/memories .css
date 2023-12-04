@@ -187,7 +187,7 @@ img.inactive {
     border-radius: 8px;
     background-color: white;
     position: absolute;
-    bottom: 115px;
+    bottom: 100px;
     right: 20px;
     transition: .5s;
 }
